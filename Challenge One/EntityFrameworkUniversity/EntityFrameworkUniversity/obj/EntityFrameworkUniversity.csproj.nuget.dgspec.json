@@ -104,7 +104,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\carlo\\OneDrive\\Documents\\Applaudo\\Trainee\\Week Four\\Challenges\\Challenge One\\EntityFrameworkUniversity\\EFUnivesityDomain\\EFUnivesityDomain.csproj": {
+                "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Applaudo\\Trainee\\Week Four\\Challenges\\Challenge One\\EntityFrameworkUniversity\\EFUnivesityDomain\\EFUnivesityDomain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

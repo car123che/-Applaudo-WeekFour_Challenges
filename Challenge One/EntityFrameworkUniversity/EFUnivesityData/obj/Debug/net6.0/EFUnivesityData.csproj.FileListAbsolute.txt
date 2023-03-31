@@ -12,3 +12,6 @@ C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challeng
 C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\obj\Debug\net6.0\EFUnivesityData.pdb
 C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\obj\Debug\net6.0\EFUnivesityData.genruntimeconfig.cache
 C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\obj\Debug\net6.0\ref\EFUnivesityData.dll
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\bin\Debug\net6.0\EFUnivesityDomain.dll
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\bin\Debug\net6.0\EFUnivesityDomain.pdb
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityData\obj\Debug\net6.0\EFUnivesityData.csproj.CopyComplete

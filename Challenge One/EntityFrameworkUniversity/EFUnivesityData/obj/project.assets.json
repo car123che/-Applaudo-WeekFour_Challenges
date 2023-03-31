@@ -779,6 +779,19 @@
             "rid": "win"
           }
         }
+      },
+      "EFUnivesityDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/EFUnivesityDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFUnivesityDomain.dll": {}
+        }
       }
     }
   },
@@ -1998,10 +2011,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EFUnivesityDomain/1.0.0": {
+      "type": "project",
+      "path": "../EFUnivesityDomain/EFUnivesityDomain.csproj",
+      "msbuildProject": "../EFUnivesityDomain/EFUnivesityDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EFUnivesityDomain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.1"
     ]
@@ -2038,7 +2057,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\carlo\\OneDrive\\Documents\\Applaudo\\Trainee\\Week Four\\Challenges\\Challenge One\\EntityFrameworkUniversity\\EFUnivesityDomain\\EFUnivesityDomain.csproj": {
+              "projectPath": "C:\\Users\\carlo\\OneDrive\\Documents\\Applaudo\\Trainee\\Week Four\\Challenges\\Challenge One\\EntityFrameworkUniversity\\EFUnivesityDomain\\EFUnivesityDomain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

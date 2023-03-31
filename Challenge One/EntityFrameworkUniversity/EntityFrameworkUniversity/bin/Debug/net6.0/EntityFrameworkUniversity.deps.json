@@ -488,6 +488,7 @@
       },
       "EFUnivesityData/1.0.0": {
         "dependencies": {
+          "EFUnivesityDomain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1"
         },
         "runtime": {

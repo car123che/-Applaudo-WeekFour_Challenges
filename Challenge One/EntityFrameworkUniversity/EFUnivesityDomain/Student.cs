@@ -9,8 +9,8 @@ namespace EFUnivesityDomain
 {
     public class Student: PersonBaseDomain
     {
-        public DateTime Name { get; set; }
+        public DateTime EnrollmentDate { get; set; }
 
-        //public List<Enrollment> Enrollments { get; set; } //to have acces to all teams in a league
+        public virtual List<Enrollment> Enrollments { get; set; } //to have acces to all teams in a league
     }
 }
