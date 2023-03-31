@@ -1,0 +1,14 @@
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\bin\Debug\net6.0\EFUnivesityDataTwo.deps.json
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\bin\Debug\net6.0\EFUnivesityDataTwo.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\bin\Debug\net6.0\EFUnivesityDataTwo.dll
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\bin\Debug\net6.0\EFUnivesityDataTwo.pdb
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.dll
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\refint\EFUnivesityDataTwo.dll
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.pdb
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\EFUnivesityDataTwo.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documents\Applaudo\Trainee\Week Four\Challenges\Challenge One\EntityFrameworkUniversity\EFUnivesityDataTwo\obj\Debug\net6.0\ref\EFUnivesityDataTwo.dll
