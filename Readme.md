@@ -34,3 +34,8 @@ I can create the context of the DB with a reverse engineer of the database. Usin
 
 This will create the table classes and the University context. 
 ![UniversityContextTwo](C1W2.png)
+
+# Challenge Two and Three
+This is the DB diagram that is going to be implemented.     
+
+![Diagram](../img/DBDiagram.png)
